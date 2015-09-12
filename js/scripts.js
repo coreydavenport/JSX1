@@ -1,3 +1,5 @@
-var visitor = prompt('What is your name?');
-var message = 'DEATH TO ' + visitor;
-document.write(message);
+var noun = prompt('Enter a NOUN');
+
+var adjective = prompt('Enter an ADJECTIVE');
+
+var verb = prompt('Enter a VERB');
