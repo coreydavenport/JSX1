@@ -31,6 +31,8 @@ if (correct == 5){
 	document.write('<p>You got gold!</p>');
 } else if (correct >= 3) {
 	document.write('<p>Yo got silver!</p>');
-}else{
+}else if (correct >= 1){
 	document.write('<p>You got bronze!</p>');
-}
+}else{
+	document.write('<p>No crown for loser</p>');
+};
