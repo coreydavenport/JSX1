@@ -5,8 +5,8 @@ if (answer1.toUpperCase() === 'NODE.JS'){
 	correct += 1;
 };
 
-var answer2 = prompt('What is jquery?');
-if (answer2.toUpperCase() === 'JAVASCRIPT LIBRARY'){
+var answer2 = prompt('What language is used to interact with the front end?');
+if (answer2.toUpperCase() === 'JAVASCRIPT'){
 	correct += 1;
 };
 
